@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ygrittespa version 1.0\n"
+"POT-Creation-Date: 2015-04-18 16:23+0500\n"
+"PO-Revision-Date: 2015-04-18 16:24+0500\n"
+"Last-Translator: Shahbaz Ahmed <support@wow-themes.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\test_work\\ygrittespa\\wp-content"
+"\\themes\\ygrittespa\n"
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:18
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:37
+msgid "For W3 validate"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:26
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:46
+msgid "Not Found "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:47
+msgid ""
+"Look like something went wrong! The page you were looking for is not here. "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/404.php:48
+msgid "BACK TOP HOME"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/blog.php:15
+msgid "  /  "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/blog.php:15
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/blog.php:30
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/single.php:46
+msgid "by"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/blog.php:15
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/blog.php:30
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/single.php:46
+msgid "   /   "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:21
+msgid "You are not signed in. "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:21
+msgid "Sign in"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:21
+msgid " to post comments."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/comments.php:52
+msgid "add your comment"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:57
+msgid "Default Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:59
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:80
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:67
+msgid "Footer Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:69
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/functions.php:78
+msgid "Blog Listing"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/header-single.php:55
+msgid "Toggle navigation"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:26
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:68
+msgid "All Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:50
+msgid "No Sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:132
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:751
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:180
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:181
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:182
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:183
+msgid "Archive for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:184
+msgid "Search Results for "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:185
+msgid "404 - Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:203
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:230
+msgid "You must agreed the policy"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:240
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:244
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:277
+msgid "Reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:307
+msgid "Your Name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:308
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/contact.php:16
+msgid "Your email address"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:309
+msgid "Your URL (optional)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:311
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:322
+msgid "Your Message"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:323
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:324
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:325
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:330
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:331
+msgid "Cancel reply"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:332
+msgid "Add Comment "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:613
+msgid "Poor"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:613
+msgid "Satisfactory"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:613
+msgid "Good"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:613
+msgid "Better"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:613
+msgid "Awesome"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:635
+#, php-format
+msgid "Average Rating %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:675
+msgid "Loading..."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:759
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/functions.php:761
+msgid "Back"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:8
+msgid "Spa Recent Posts with image"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:8
+msgid "Show the recent posts with images"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:53
+msgid "Recently Added"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:58
+msgid "Title: "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:62
+msgid "No. of Posts:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/library/widgets.php:67
+msgid "Category"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:164
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:165
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:168
+msgid "Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:168
+msgid "Twitter"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:168
+msgid "Dribble"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:168
+msgid "Github"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:169
+msgid "Flickr"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:169
+msgid "Google+"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/loader.php:169
+msgid "Youtube"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/booking.php:9
+msgid "Call Us at"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/booking.php:10
+msgid "or"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/booking.php:11
+msgid "Send us an email:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/contact.php:11
+msgid "Your name"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/contact.php:21
+msgid "Your phone number"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/contact.php:35
+msgid " Send Message"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/portfolio.php:61
+msgid "All"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/modules/shortcodes/services.php:31
+msgid " Learn more"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:116
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:118
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:120
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:144
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1841
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:146
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1539
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:122
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/thirdparty/tgm-plugin-activation/plugins.php:148
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/search.php:53
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/searchform.php:3
+msgid "SEARCH.."
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/searchform.php:4
+msgid "submit"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/sidebar.php:8
+msgid "by : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/sidebar.php:9
+msgid "in : "
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/sidebar.php:18
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/single.php:51
+msgid "Share This Post:"
+msgstr ""
+
+#: D:\xampp\htdocs\test_work\ygrittespa\wp-content\themes\ygrittespa/single.php:79
+msgid "Pages: "
+msgstr ""
